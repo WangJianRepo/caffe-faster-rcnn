@@ -1,3 +1,9 @@
+** Dependencies **
+- Boost 1.58.0
+- Protobuf 3.2.0
+
+
+
 **Special Feature for This Caffe Repository**
 
 - Clone from the official [Caffe](https://github.com/BVLC/caffe), will continuely be up-to-date by the official caffe code
