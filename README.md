@@ -1,4 +1,5 @@
-** Dependencies **
+**Dependencies**
+- gcc 5.4.0
 - Boost 1.58.0
 - Protobuf 3.2.0
 
